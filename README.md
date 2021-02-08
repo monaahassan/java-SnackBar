@@ -200,7 +200,7 @@ Create the classes mentioned above and then instantiate these objects from those
 * [ ] Customer 2 (Bob) buys 3 of snack 3 (Pretzel).
   * [ ] Print Customer 2 (Bob) Cash on hand.
   * [ ] Print quantity of snack 3 (Pretzel).
-  
+
 ### Task 3: Stretch Goals
 
 * [ ] Display each snack with
